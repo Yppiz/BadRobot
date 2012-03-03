@@ -5,7 +5,7 @@ import edu.wpi.first.wpilibj.DriverStation;
 import edu.wpi.first.wpilibj.DriverStationLCD;
 
 /*
- * @author 1014 Programming Team
+ * @author 1014 Programming Team tiny change
  */
 public class OI
 {
